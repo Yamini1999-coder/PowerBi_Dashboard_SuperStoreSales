@@ -15,8 +15,7 @@ An interactive Power BI sales analytics dashboard built to track revenue, profit
 - **Time-Series Trend:** Monitor sales movement across 2019 and 2020.
 
 ## Screenshots
-- **Overall / Regional Views:** Add your uploaded screenshots here, e.g.:
-  `![Dashboard Overview](screenshots/overall.png)`
+- **Overall / Regional Views:** 
 
 ## Tools Used
 - Microsoft Power BI Desktop, DAX, Data Visualization
